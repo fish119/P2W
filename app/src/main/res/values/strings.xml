@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">拍照学单词</string>
+    <string name="press_again_to_quit">再按一次退出</string>
+    <string name="take_pictures">拍照</string>
+    <string name="no_data">OH，你还没有拍照识别过单词。\n请按下面的按钮，\n对准物体拍照，\n我会告诉你它的英文是什么，\n还在等什么？赶快试一试！</string>
+    <string name="request_permission_write_external_storage">请务必同意权限申请，否则将无法使用</string>
+</resources>
